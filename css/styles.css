@@ -1,5 +1,5 @@
 body {
-	background-color: powderblue;
+	background-color: black;
 	max-width: 100%;
 	height: auto;
 	
@@ -29,3 +29,8 @@ h1 {
 
 }
 
+footer {
+	color: white;
+	text-align: center;
+	font-family: verdana;
+}

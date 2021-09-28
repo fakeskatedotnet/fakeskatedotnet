@@ -37,4 +37,6 @@ h1 {
 
 #padding {   
 	padding-right: 280px;  
+	white-space: nowrap; 
+	color:white;
 }  

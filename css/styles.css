@@ -1,0 +1,42 @@
+body {
+	background-color: black;
+	max-width: 100%;
+	height: auto;
+	
+}
+
+#txt {
+	color: white;
+	text-align: center;
+	font-family: verdana;
+	font-size: 48px;
+
+}
+
+marquee {
+	border:solid;
+	max-height: 100%;
+	height: 600px;
+
+
+}
+
+h1 {
+	font-family: Helvetica;
+	margin: auto;
+  	width: 30%;
+  	padding: 10px;
+
+}
+
+#center {
+	color: white;
+	text-align: center;
+	font-family: verdana;
+}
+
+#padding {   
+	padding-right: 280px;  
+	white-space: nowrap; 
+	color:white;
+}  
